@@ -360,19 +360,19 @@ addIngredient("blue_dye",{
 
 addIngredient("purple_dye",{
     type:"red_dye",
-    color:"#FF00FF",
+    color:"#BF00FF",
     adj:"purple",
 });
 
 addIngredient("magenta_dye",{
     type:"red_dye",
-    color:"#BF00FF",
+    color:"#FF00FF",
     adj:"magenta",
 });
 
 addIngredient("pink_dye",{
     type:"red_dye",
-    color:"#BF00FF",
+    color:"#FFBAFD",
     adj:"magenta",
 });
 
@@ -390,7 +390,7 @@ addIngredient("light_gray_dye",{
 
 addIngredient("gray_dye",{
     type:"red_dye",
-    color:"#F7F7F7",
+    color:"#919191",
     adj:"gray",
 });
 
